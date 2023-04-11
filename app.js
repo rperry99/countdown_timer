@@ -1,5 +1,5 @@
 // Set the date
-var dateToCountdownTo = new Date("June 1, 2023").getTime();
+var dateToCountdownTo = new Date("December 25, 2023").getTime();
 
 // Get the DOM elements
 const dateField = document.getElementById('date');
