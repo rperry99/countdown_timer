@@ -1,0 +1,2 @@
+# Basic Countdown Timer
+This is just a basic countdown timer. I had taken a little hiatus from coding, and I wanted to work on a simple project to get me used to the workflow of coding. Mostly back into the workflow of coding, and working with git/github.
