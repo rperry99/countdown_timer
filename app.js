@@ -1,5 +1,6 @@
 // Set the date
-var dateToCountdownTo = new Date("December 25, 2023").getTime();
+var setDate = "December 25, 2023"
+var dateToCountdownTo = new Date(setDate).getTime();
 
 // Get the DOM elements
 const dateField = document.getElementById('date');
@@ -27,4 +28,5 @@ function getTime() {
 
     // Set the countdown to the new time.
     timer.innerHTML = days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds ";
+    dateField.innerHTML = setDate;
 }
